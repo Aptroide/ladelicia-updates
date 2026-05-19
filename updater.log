@@ -1,17 +1,6 @@
-[19/05/2026 17:56:17.18] Updater started. Waiting for process 1548 to exit.
-[19/05/2026 17:56:18.06] Process closed. Starting executable swap.
-[19/05/2026 17:56:18.08] Moved current executable to backup.
-[19/05/2026 17:56:18.15] Moved downloaded executable into place.
-[19/05/2026 17:56:19.88] Relaunched updated application.
-[19/05/2026 18:03:22.35] Updater started. Waiting for process 9072 to exit.
-[19/05/2026 18:03:23.59] Process closed. Starting executable swap.
-[19/05/2026 18:03:23.83] Moved current executable to backup.
-[19/05/2026 18:03:23.84] Moved downloaded executable into place.
-[19/05/2026 18:03:25.37] Relaunched updated application.
-[19/05/2026 18:12:00.26] Updater started. Waiting for process 9248 to exit.
-[19/05/2026 18:12:01.35] Process closed. Starting executable swap.
-[19/05/2026 18:12:01.36] Removed previous backup.
-[19/05/2026 18:12:01.39] Moved current executable to backup.
-[19/05/2026 18:12:01.41] Moved downloaded executable into place.
-[19/05/2026 18:12:01.43] Waiting 2 seconds before relaunch.
-[19/05/2026 18:12:04.64] Relaunched updated application.
+[19/05/2026 18:19:52.57] Updater started. Waiting for process 5220 to exit.
+[19/05/2026 18:19:53.54] Process closed. Starting executable swap.
+[19/05/2026 18:19:53.91] Moved current executable to backup.
+[19/05/2026 18:19:53.96] Moved downloaded executable into place.
+[19/05/2026 18:19:53.98] Waiting 2 seconds before relaunch.
+[19/05/2026 18:19:57.83] Relaunched updated application.
