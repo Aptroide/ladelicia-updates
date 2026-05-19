@@ -1,6 +1,6 @@
-[19/05/2026 18:19:52.57] Updater started. Waiting for process 5220 to exit.
-[19/05/2026 18:19:53.54] Process closed. Starting executable swap.
-[19/05/2026 18:19:53.91] Moved current executable to backup.
-[19/05/2026 18:19:53.96] Moved downloaded executable into place.
-[19/05/2026 18:19:53.98] Waiting 2 seconds before relaunch.
-[19/05/2026 18:19:57.83] Relaunched updated application.
+[19/05/2026 18:31:08.48] Updater started. Waiting for process 14836 to exit.
+[19/05/2026 18:31:09.60] Process closed. Starting executable swap.
+[19/05/2026 18:31:10.17] Moved current executable to backup.
+[19/05/2026 18:31:10.22] Moved downloaded executable into place.
+[19/05/2026 18:31:10.25] Launch attempt 1.
+[19/05/2026 18:31:16.33] Relaunched updated application.
